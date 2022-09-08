@@ -12,8 +12,6 @@ cc_defaults {
         "libcutils",
         "libutils",
     ],
-    header_libs: ["display_headers"],
-    clang: true,
 }
 
 subdirs = [
